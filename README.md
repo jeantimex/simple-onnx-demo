@@ -1,2 +1,3 @@
-# simple-onnx-demo
-A super simple onnx webgpu demo
+# Simple ONNX Demo
+
+A super simple onnx webgpu demo.
